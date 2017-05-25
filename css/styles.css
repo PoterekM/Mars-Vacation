@@ -1,0 +1,16 @@
+.jumbotron {
+  background-image: url(http://media.salon.com/2015/09/mars-614x412.jpg);
+  color: white;
+  text-align: center;
+  text-shadow: salmon;
+  font-family: fantasy;
+}
+
+body {
+  background-image: url(https://www.jpl.nasa.gov/images/universe/astronomy/20140108/machine20150108-16.jpg);
+  text-align: center;
+}
+
+blockquote {
+  display: block;
+}
